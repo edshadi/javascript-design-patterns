@@ -1,0 +1,18 @@
+Introduce Javascript Design Pattern:
+- Namespace patterns:
+  - Automated nested
+  - Immediately-invoked Function Expressions (IIFE)
+  - Injection
+  - Object literal notation
+  - Nested namespacing
+  - Prefix
+  - Single global variables
+- Module
+- Adapter
+- Builder
+- Composite
+- Command
+- Constructor
+- Iterator
+- Pub/Sub
+- Singleton
